@@ -3,7 +3,7 @@
 
 ## 实现效果
 
-![](https://szx-bucket1.oss-cn-hangzhou.aliyuncs.com/picgo/ai.gif)
+![](https://raw.githubusercontent.com/OmNom666/gpt-demo/refs/heads/main/show.png)
 
 ## utils/TTSRecorder.js
 封装了发送消息并相应消息的核心功能
