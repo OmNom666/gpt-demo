@@ -2,6 +2,7 @@
 GPT演示网页（讯飞星火大模型+vue框架）
 
 ## 实现效果
+(show.png)
 
 ![](https://raw.githubusercontent.com/OmNom666/gpt-demo/refs/heads/main/show.png)
 
